@@ -1,0 +1,70 @@
+.clr1{
+  background-color: #eef9bf;
+  background-image: url("images/hand.png");
+
+  background-repeat: no-repeat;
+
+  background-size: 30%;
+}
+.row {
+
+  padding:2% 30%;
+
+  margin: 4% 5%;
+
+}
+
+.dice {
+  text-align: center;
+
+
+}
+.coll3
+{
+  margin:3% 4%;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 45rem;
+  color: red;
+  text-align: center;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'Indie Flower', cursive;
+  text-align: center;
+}
+
+.img1 {
+  width: 100%;
+  padding: 4% 2%;
+  border: 5px solid black;
+}
+.img2 {
+  width: 100%;
+  padding: 4% 2%;
+  border: 5px solid black;
+}
+
+
+
+
+.footer {
+  margin-top: 5%;
+  color:black;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
+.cc2
+{
+  padding-right: 10%;
+}
+.container{
+  padding-bottom: 0;
+}
